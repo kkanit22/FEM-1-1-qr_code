@@ -7,7 +7,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
 	- [Table of contents](#table-of-contents)
 	- [Overview](#overview)
-		- [Screenshot](#screenshot)
+		- [Screenshots](#screenshots)
+			- [Desktop](#desktop)
+			- [Mobile](#mobile)
 		- [Links](#links)
 	- [My process](#my-process)
 		- [Built with](#built-with)
@@ -17,9 +19,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
-![Finished Component](./screenshot.png)
+#### Desktop
+
+![Finished Component Desktop View](./screenshot-desktop.png)
+
+#### Mobile
+
+![Finished Component Mobile View](./screenshot-mobile.png)
 
 ### Links
 
