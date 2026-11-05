@@ -19,6 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+The challenge was to build a small component consisting of a card with a QR code and provided copy. I have tried to replicate the design included in the figma. I have kept the attribution linking to Frontend Mentor even though it is not included in the design.
+
 ### Screenshots
 
 #### Desktop
